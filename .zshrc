@@ -160,5 +160,5 @@ alias cl="clear"
 alias commit="git commit -m"
 alias all="git add --all"
 alias gpl="git pull"
-alias python="python3"export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
+alias python="python3"
 alias refresh='source ~/.zshrc'
