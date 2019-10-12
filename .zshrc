@@ -162,3 +162,21 @@ alias all="git add --all"
 alias gpl="git pull"
 alias python="python3"
 alias refresh='source ~/.zshrc'
+
+## Updating
+
+# Get updates for OS X Software, Homebrew, NPM, Heroku, Pip, and all
+# packages/gems
+# I stole this from https://github.com/ericwbailey/dotfiles/blob/master/.aliases
+alias updatesoftware="softwareupdate -i -a && mas upgrade"
+alias updatehomebrew="brew upgrade && brew cleanup"
+alias updatenpm="npm install npm -g && npm update -g"
+alias updateruby="gem update --system && gem update"
+alias updateheroku="brew upgrade heroku && heroku update"
+alias updatepip="pip3 install --upgrade pip"
+# alias updatemackup="mackup backup"
+alias updatetldr="tldr --update"
+alias update="updatesoftware; updatehomebrew; updatenpm; updateruby; updateheroku; updatepip; updatetldr"
+
+# The Fuck
+eval $(thefuck --alias fuck)

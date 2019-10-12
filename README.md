@@ -7,3 +7,7 @@ You might have to install [oh_my_zsh](https://github.com/robbyrussell/oh-my-zsh)
 ![Theme demo](imgs/demo.png)
    
 Pictured running on iTerm2 with background set to `1e2028` and `SauceCodePro Nerd Font`.
+
+## Todo - light theme
+
+use these flame glyphs as separators https://github.com/ryanoasis/powerline-extra-symbols 
