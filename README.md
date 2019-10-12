@@ -4,7 +4,7 @@ For now just my `zsh` setup with custom segments and colours. I set out to make 
        
 You might have to install [oh_my_zsh](https://github.com/robbyrussell/oh-my-zsh) and the [Powerlevel9k zsh theme](https://github.com/Powerlevel9k) to use this setup.
 
-![Theme demo](imgs/newdemo.png)
+![Theme demo](imgs/updated.png)
    
 Pictured running on iTerm2 with background set to `1e2028` and `SauceCodePro Nerd Font`.
 
