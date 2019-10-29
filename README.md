@@ -4,10 +4,16 @@ For now this is just my `zsh` setup with custom segments and colours (plus some 
        
 You might have to install [oh_my_zsh](https://github.com/robbyrussell/oh-my-zsh) and the [Powerlevel9k zsh theme](https://github.com/Powerlevel9k) to use this setup.
 
-![Theme demo](imgs/updated.png)
+## Dark theme
+
+![Dark theme demo](imgs/updated.png)
    
 Pictured running on iTerm2 with background set to `1e2028` and `SauceCodePro Nerd Font`.
 
-## Todo - light theme
+## Light theme
+
+![Light theme demo]
+
+This theme is meant to work well with the [VSCode Horizon](https://github.com/jolaleye/horizon-theme-vscode/) light theme
 
 use these flame glyphs as separators https://github.com/ryanoasis/powerline-extra-symbols 
