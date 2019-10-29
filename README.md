@@ -12,7 +12,6 @@ Pictured running on iTerm2 with background set to `1e2028` and `SauceCodePro Ner
 
 ## Light theme
 
-![Light theme demo]
 
 This theme is meant to work well with the [VSCode Horizon](https://github.com/jolaleye/horizon-theme-vscode/) light theme
 
