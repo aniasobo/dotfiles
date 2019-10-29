@@ -12,8 +12,10 @@ Pictured running on iTerm2 with background set to `1e2028` and `SauceCodePro Ner
 
 ## Light theme
 
-![Light theme demo]
-
+![Light theme demo](imgs/light-theme.png)
+   
 This theme is meant to work well with the [VSCode Horizon](https://github.com/jolaleye/horizon-theme-vscode/) light theme
+
+## TODO
 
 use these flame glyphs as separators https://github.com/ryanoasis/powerline-extra-symbols 
