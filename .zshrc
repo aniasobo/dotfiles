@@ -258,5 +258,8 @@ alias updatepip="pip3 install --upgrade pip"
 alias updatetldr="tldr --update"
 alias update="updatesoftware; updatehomebrew; updatenpm; updateruby; updateheroku; updatepip; updatetldr"
 
+# purges node_modules from projects older than n
+alias purge="autarky"
+
 # The Fuck
 eval $(thefuck --alias fuck)
