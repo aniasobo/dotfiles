@@ -240,10 +240,11 @@ alias ls='ls -l'
 alias gs='git status'
 alias gr='git remote -v'
 alias cl="clear"
-alias commit="git commit -m"
+alias comt="git commit -m"
 alias all="git add --all"
 alias gpl="git pull"
 alias python="python3"
+alias pip='pip3'
 alias refresh='source ~/.zshrc'
 
 ## Updating
