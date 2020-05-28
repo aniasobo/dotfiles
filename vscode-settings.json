@@ -1,0 +1,24 @@
+{
+  "editor.formatOnSave": true,
+  "editor.scrollBeyondLastLine": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 120,
+  "workbench.colorTheme": "Overnight Slumber",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "MesloLGM Nerd Font, Inconsolata Nerd Font Mono, 'Courier New', monospace",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "prettier.disableLanguages": ["vue", "less", "css", "sass"],
+  "editor.fontSize": 14,
+  "solargraph.checkGemVersion": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.associations": {
+    "*.html.erb": "html"
+  }
+}
